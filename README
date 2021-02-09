@@ -1,1 +1,5 @@
-Put your add-on component directories in this directory to load them when Moqui runs.
+This repository is intended to submit assigment to Hotwax Commerce
+
+To clone or use moqui framework, you can follow instructions from this link https://www.moqui.org/docs/framework/Introduction
+
+This repo only contain component called "helloworld-component" in which definition of one component is mentioned in Example.xml file
